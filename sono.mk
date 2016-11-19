@@ -4,7 +4,7 @@
 #
 ######################################
 
-SONO_VERSION = cc26bf91d24e2da634c1426f6a02ce88ee4b4757
+SONO_VERSION = c16f24faea0fe66cacfca1c634ea393337f375cc
 SONO_SITE = $(call github,sonoptik,sono,$(SONO_VERSION))
 SONO_BUNDLES = zzz.lv2
 
